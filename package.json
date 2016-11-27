@@ -1,5 +1,5 @@
 {
-  "name": "suju bot",
+  "name": "suju-bot",
   "version": "0.5.4",
   "description": "Demo for Junction 2016",
   "main": "index.js",
